@@ -40,12 +40,12 @@
     <string name="enable_responsive_mode">Увімкнути адаптивний режим читання</string>
     <string name="enable_dlna">DLNA-медиасервер</string>
     <string name="dlna_friendly_name">Ім\'я сервера DLNA</string>
-    <string name="dlna_name_hint">Залиште порожнім, щоб використовувати значення за замовчуванням.</string>
+    <string name="dlna_name_hint">Залиште порожнім, щоб використовувати значення за замовчуванням</string>
     <string name="disable_tcp">TCP - Протокол Управління Передачею</string>
     <string name="disable_tcp_desc">Не вимикайте без включеного μTP</string>
     <string name="disable_utp">μTP - Micro Transport Protocol</string>
     <string name="disable_utp_desc">Не рекомендується на слабких пристроях</string>
-    <string name="disable_upnp">UPnP - Universal Plug and Play</string>
+    <string name="disable_upnp">UPnP - Універсальне автоматичне налаштування мережевих пристроїв</string>
     <string name="disable_upnp_desc">Автовідкриття порту на роутері</string>
     <string name="disable_dht">DHT - Distributed Hash Table</string>
     <string name="disable_dht_desc">Відключіть при відсутності мережі після запуску сервера</string>
@@ -153,7 +153,7 @@
     <string name="speedtest_title">Тест швидкості до TorrServer</string>
     <string name="speedtest_title_desc">Перевірте швидкість TorrServer</string>
     <string name="host_authorization">Авторизація на сервері</string>
-    <string name="host_authorization_desc">Введіть логін та пароль через «:» (user:pass)</string>
+    <string name="host_authorization_desc">Введіть логін та пароль через «:» (user:pass), залиште порожнім для відсутності автентифікації.</string>
     <string name="local_auth_title">Локальний TorrServer з авторизацією</string>
     <string name="local_auth_sum_on">Використовуйте авторизацію на локальному сервері</string>
     <string name="local_auth_sum_off">Не використовуйте авторизацію на локальному сервері</string>
@@ -232,7 +232,7 @@
     <string name="cat_music">Музика</string>
     <string name="cat_other">Інше</string>
     <string name="cat_none">Усі торренти</string>
-    <string name="accessibility_note">Вимкніть службу доступності, щоб зупинити TorrServer.</string>
+    <string name="accessibility_note">Вимкніть службу доступності, щоб зупинити TorrServer</string>
     <string name="torrserver_log">Журнал TorrServer</string>
     <string name="torrserver_log_summary">Перегляд журналу локального TorrServer</string>
     <string name="torrserver_log_cleared">Журнал TorrServer очищено</string>
