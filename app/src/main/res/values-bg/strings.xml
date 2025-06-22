@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add">Добави</string>
     <string name="delete">Изтрий</string>
@@ -41,11 +42,11 @@
     <string name="enable_dlna">DLNA Медия сървър</string>
     <string name="dlna_friendly_name">DLNA Име на сървъра</string>
     <string name="dlna_name_hint">Оставете празно, за да използвате по подразбиране</string>
-    <string name="disable_tcp">TCP - Transmission Control Protocol</string>
+    <string name="disable_tcp">TCP - Протокол за контрол на предаването</string>
     <string name="disable_tcp_desc">Не деактивирайте без активиран μTP</string>
     <string name="disable_utp">μTP - Micro Transport Protocol</string>
     <string name="disable_utp_desc">Не се препоръчва да се активира на слаби устройства</string>
-    <string name="disable_upnp">UPnP - Universal Plug and Play</string>
+    <string name="disable_upnp">UPnP - Универсална автоматична настройка на мрежовите устройства</string>
     <string name="disable_upnp_desc">Автоматично отваряне на порт на рутера</string>
     <string name="enable_rutor_search">Активиране на търсен в Rutor</string>
     <string name="enable_rutor_search_desc">ЗАБЕЛЕЖКА: торент базата данни ще заема около 500 MB в RAM</string>
@@ -138,7 +139,7 @@
     <string name="error_app_not_found">Не са намерени подходящи приложения</string>
     <string name="error_download_ffprobe">FFProbe грешка при сваляне</string>
     <string name="error_empty_link">Връзката към Torrent-а е празна</string>
-    <string name="error_intent_null">Intent is null</string>
+    <string name="error_intent_null">Празно намерение</string>
     <string name="error_process_intent">Грешка при отваряне на плейъра. Проверете настройките.</string>
     <string name="error_retrieve_data">Грешка при получаване на данните</string>
     <string name="error_retrieve_torrent_file">Не са намерени файлове за пускане</string>
@@ -154,10 +155,10 @@
     <string name="donate_message">TorrServe е свободен софтуер. Моля, помислете за дарение в подкрепа на бъдещото развитие на TorrServe.</string>
     <string name="boosty_msg">Boosty сайт</string>
     <string name="telegram_msg">Telegram Канал</string>
-    <string name="app_settings">Настройки</string>
+    <string name="app_settings">Настройки приложения</string>
     <string name="app_version">Версия</string>
     <string name="host_title">Задайте URL адрес на TorrServer</string>
-    <string name="host_title_hint">http://localhost:8090 - for server on device</string>
+    <string name="host_title_hint">http://localhost:8090 - за сървъра на устройството</string>
     <string name="speedtest_title">Тест на скоростта към TorrServer</string>
     <string name="speedtest_title_desc">Тествайте скоростта на TorrServer</string>
     <string name="host_authorization">Оторизация към сървъра</string>
@@ -213,9 +214,9 @@
     <string name="fmt_s">s.</string>
     <string name="fmt_p">KMGTPE</string>
     <string name="fmt_b">B</string>
-    <string name="fmt_bps">bps</string>
+    <string name="fmt_bps">bit/s</string>
     <string name="runtime">Времетраене</string>
-    <string name="avg">средн.</string>
+    <string name="avg">средна</string>
     <string name="max">макс.</string>
     <string name="sort_by_name">Сортиране на списъка по заглавие</string>
     <string name="sort_by_size">Сортиране на списъка по размер</string>
