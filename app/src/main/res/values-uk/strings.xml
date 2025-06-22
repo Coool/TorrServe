@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add">Додати</string>
     <string name="delete">Видалити</string>
@@ -40,7 +41,7 @@
     <string name="enable_dlna">DLNA-медиасервер</string>
     <string name="dlna_friendly_name">Ім\'я сервера DLNA</string>
     <string name="dlna_name_hint">Залиште порожнім, щоб використовувати значення за замовчуванням.</string>
-    <string name="disable_tcp">TCP - Transmission Control Protocol</string>
+    <string name="disable_tcp">TCP - Протокол Управління Передачею</string>
     <string name="disable_tcp_desc">Не вимикайте без включеного μTP</string>
     <string name="disable_utp">μTP - Micro Transport Protocol</string>
     <string name="disable_utp_desc">Не рекомендується на слабких пристроях</string>
