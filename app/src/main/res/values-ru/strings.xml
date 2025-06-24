@@ -44,7 +44,7 @@
     <string name="dlna_name_hint">Оставьте пустым, чтобы использовать значение по умолчанию</string>
     <string name="disable_tcp">TCP - Протокол Управления Передачей</string>
     <string name="disable_tcp_desc">Не отключайте без включенного μTP</string>
-    <string name="disable_utp">μTP - Micro Transport Protocol</string>
+    <string name="disable_utp">μTP - Протокол микротранспортировки</string>
     <string name="disable_utp_desc">Не рекомендуется включать на слабых устройствах</string>
     <string name="disable_upnp">UPnP - Универсальная автоматическая настройка сетевых устройств</string>
     <string name="disable_upnp_desc">Автоматическая настройка порта на роутере</string>
