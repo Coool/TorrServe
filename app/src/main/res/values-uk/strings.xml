@@ -65,7 +65,7 @@
         <item>Видаляти</item>
         <item>Заміняти</item>
     </string-array>
-    <string name="select_player">Вибір плеєра</string>
+    <string name="select_player">Виберіть плеєра</string>
     <string name="use_as_default">Запам\'ятати вибір</string>
     <string name="default_player">Плеєр за замовчуванням</string>
     <string name="choose_player">Завжди запитувати</string>
