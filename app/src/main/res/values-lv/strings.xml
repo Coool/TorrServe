@@ -135,7 +135,7 @@
     <string name="not_support_local_ip">Neiestatiet ierīces vietējo IP kā TorrServer URL! Tā vietā izmantojiet localhost | 127.0.0.1.</string>
     <string name="host_authorization_desc">Ievadiet lietotājvārdu un paroli, atdalot tos ar kolu (lietotājs:parole), atstājiet tukšu (neaizpildiet), ja neizmantojiet autorizāciju.</string>
     <string name="link">Saite</string>
-    <string name="error_retrieve_torrent_file">Torrents nesatur atskaņojamu multimedijas datni</string>
+    <string name="error_retrieve_torrent_file">Torrents nesatur atskaņojamu multivides datni</string>
     <string name="error_retrieve_torrent_info">Neizdevās ielādēt torrenta datus</string>
     <string name="torserver_summary">TorrServer iestatījumu konfigurēšana</string>
     <string name="boot_start_title">Palaist serveri Android ielādes laikā</string>
@@ -150,4 +150,9 @@
     <string name="no_torrents">Nav torrentu</string>
     <string name="not_loaded_select_hint">Atlasiet pieejamo TorrServer no saraksta vai ievadiet TorrServer adresi.</string>
     <string name="sort_torrents_list_sum_on">Kārto torrentus alfabētiskā secībā</string>
+    <string name="exit_text">Vietējais TorrServer tiks apturēts, kad iziesiet no lietotnes, ja Pieejamības pakalpojums atspējots.</string>
+    <string name="apply">Piemērot</string>
+    <string name="default_sets">Iestatīt noklusējuma iestatījumus</string>
+    <string name="default_sets_applied">Iestatīti noklusējuma iestatījumi</string>
+    <string name="torrent_disconnect_timeout">Torrenta atvienošanās noildze (sekundes)</string>
 </resources>
