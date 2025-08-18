@@ -50,9 +50,9 @@
     <string name="disable_upnp_desc">Автоматично отваряне на порт на рутера</string>
     <string name="enable_rutor_search">Активиране на търсен в Rutor</string>
     <string name="enable_rutor_search_desc">ЗАБЕЛЕЖКА: торент базата данни ще заема около 500 MB в RAM</string>
-    <string name="disable_dht">DHT - Distributed Hash Table</string>
+    <string name="disable_dht">DHT - Разпределена хештаблица</string>
     <string name="disable_dht_desc">Деактивирайте, ако нямате мрежова връзка след стартиране на сървъра</string>
-    <string name="disable_pex">PEX - Peer Exchange</string>
+    <string name="disable_pex">PEX - Обмен на връстници</string>
     <string name="disable_pex_desc">По-добре оставете включено</string>
     <string name="disable_upload">Качване</string>
     <string name="disable_upload_desc">Не се препоръчва да се деактивира</string>
