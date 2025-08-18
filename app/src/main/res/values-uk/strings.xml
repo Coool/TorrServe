@@ -47,10 +47,10 @@
     <string name="disable_utp_desc">Не рекомендується на слабких пристроях</string>
     <string name="disable_upnp">UPnP - Універсальне автоматичне налаштування мережевих пристроїв</string>
     <string name="disable_upnp_desc">Автовідкриття порту на роутері</string>
-    <string name="disable_dht">DHT - Distributed Hash Table</string>
+    <string name="disable_dht">DHT - Розподілена хеш-таблиця</string>
     <string name="disable_dht_desc">Відключіть при відсутності мережі після запуску сервера</string>
-    <string name="disable_pex">PEX - Peer Exchange</string>
-    <string name="disable_pex_desc">Не рекомендується відключати</string>
+    <string name="disable_pex">PEX - Обмін пірами</string>
+    <string name="disable_pex_desc">Краще залишити включеним - не рекомендується відключати</string>
     <string name="disable_upload">Відвантаження</string>
     <string name="disable_upload_desc">Не рекомендується відключати</string>
     <string name="connections_limit">Торрент–з\'єднання (рекомендовано 20–25)</string>
@@ -113,7 +113,7 @@
     <string name="install_server_local">Встановити сервер з папки Download</string>
     <string name="delete_local_server">Видалити локальний сервер</string>
     <string name="arch">Архітектура ОС</string>
-    <string name="update_server">Оновлення сервера</string>
+    <string name="update_server">Оновити сервер</string>
     <string name="warn_error_check_ver">Помилка перевірки версії</string>
     <string name="warn_error_download_server">Помилка при завантаженні сервера</string>
     <string name="warn_no_local_updates">Немає локальних оновлень</string>
@@ -207,7 +207,7 @@
     <string name="fmt_b">Б</string>
     <string name="fmt_bps">біт/с</string>
     <string name="runtime">Тривалість</string>
-    <string name="avg">середн.</string>
+    <string name="avg">середня</string>
     <string name="max">макс.</string>
     <string name="sort_by_name">Сортування за назвою</string>
     <string name="sort_by_size">Сортування за розміром</string>
