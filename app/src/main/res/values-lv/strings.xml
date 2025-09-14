@@ -182,4 +182,11 @@
     <string name="show_banner_sum_on">Rādīs reklāmplakātu pie torrenta ielādes</string>
     <string name="connections_dht_limit">DHT savienojumu skaita ierobežojums (0 - bez ierobežojuma)</string>
     <string name="remove_action_summary">Atiestata noklusējuma OS lietotni torrenta datnēm un magnēta saitēm</string>
+    <string name="use_as_default">Saglabāt izvēli</string>
+    <string name="show_sort_fab_title">Peldošā kārtošanas poga vertikālā (portreta) skatā</string>
+    <string name="show_sort_fab_sum_on">Rādīs peldošo saraksta kārtošanas pogu</string>
+    <string name="show_sort_fab_sum_off">Nerādīs peldošo saraksta kārtošanas pogu</string>
+    <string name="switch_accessibility_title">Pieejamības pakalpojums</string>
+    <string name="accessibility_service_description">Izmantojot šo pakalpojumu, operētājsistēma var pārstāt aizvērt, beigt vietējo TorrServer procesu</string>
+    <string name="cat_other">Pārējie</string>
 </resources>
