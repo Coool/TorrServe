@@ -189,4 +189,9 @@
     <string name="switch_accessibility_title">Pieejamības pakalpojums</string>
     <string name="accessibility_service_description">Izmantojot šo pakalpojumu, operētājsistēma var pārstāt aizvērt, beigt vietējo TorrServer procesu</string>
     <string name="cat_other">Pārējie</string>
+    <string name="default_player">Sistēmas iestatītais atskaņotājs</string>
+    <string name="make_as_def">Atcerēties izvēli</string>
+    <string name="torrent_category_help">Atlasiet torrenta kategoriju (neobligāti, pēc izvēles)</string>
+    <string name="root_start_sum_on">Palaidīs vietējo serveri ar root piekļuves tiesībām, lai serveri nevar apturēt</string>
+    <string name="root_start_sum_off">Nepalaidīs vietējo serveri ar root piekļuves tiesībām</string>
 </resources>
