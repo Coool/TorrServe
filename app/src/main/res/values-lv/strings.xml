@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="exit_title">Vai tiešām iziet no lietotnes?</string>
+    <string name="exit_title">Vai tiešām vēlaties iziet?</string>
     <string name="playlist_continue">Turpināt</string>
     <string name="arch">OS arhitektūra</string>
     <string name="delete">Dzēst</string>
@@ -49,7 +49,7 @@
     <string name="save_on_disk_desc">Ieteicams izmantot RAM vai ārējos datu nesējus ar zibatmiņu, vislabāk NVMe diskus</string>
     <string name="torrent_link_help">Ievadiet torrenta URL, magnēta saiti vai tā jaucējvērtību</string>
     <string name="sort_by_name">Kārtot pēc nosaukuma</string>
-    <string name="show_menu">Parādīt galveno izvēlni</string>
+    <string name="show_menu">Rādīt galveno izvēlni</string>
     <string name="save_content_path">Kešatmiņas glabāšanas mape</string>
     <string name="remove_cache_on_drop_desc">Ja atspējots, kešatmiņas datnes tiek notīrītas, kad dzēš torrentu no datubāzes</string>
     <string name="enable_rutor_search_desc">UZMANĪBU: torrentu datubāze aizņems aptuveni 500 MB operatīvās atmiņas (RAM)</string>
